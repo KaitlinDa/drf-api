@@ -1,7 +1,7 @@
-# Lab 31 - Class 401d24
+# Lab 33 - Class 401d24
 
 ## Project
-Django REST Framework API
+Authentication and Production Server
 
 ## Author
 
